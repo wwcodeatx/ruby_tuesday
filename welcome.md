@@ -2,16 +2,16 @@
 Please grab some food and make yourself comfortable.
 
 ## Getting Connected
-Slack: wwc-atx.slack.com
-Twitter: @wwcodeatx
-Web: womenwhocode.com/austin: Coding Resources, Job Board, Meetups, and MOAR!
+* Slack: wwc-atx.slack.com
+* Twitter: @wwcodeatx
+* Web: womenwhocode.com/austin: Coding Resources, Job Board, Meetups, and MOAR!
 
 ## Your Organizers
-* Miriam Hayes
-* Anne Richardson
+* Miriam Hayes: contact info
+* Anne Richardson:  contact info
 
 ## Sponsors
-This meeting space and food are provided by Cision
+This meeting space and food are provided by Cision. Thank you! :clap:
 
 ## Code of Conduct
 ### Male Allies
@@ -20,6 +20,6 @@ Women Who Code events are intended to inspire women, trans, and non-binary peopl
 All attendees are expected to abide by the Code of Conduct. We work hard to maintain an enjoyable, safe, harrassment-free space for all attendees.
 
 ### TL;DR
-WWCode is a non-profit organization dedicated to inspiring women to excel in technology careers. We are committed to our mission statement and equally committed to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, socioeconomic status, caste or creed. We do not tolerate harassment of event participants in any form. Event participants violating these rules may be sanctioned or expelled permanently, at the discretion of the event organizers, which in most cases are members of the WWCode leadership team.
+Women Who Code is a non-profit organization dedicated to inspiring women to excel in technology careers. We do not tolerate harassment of event participants in any form. Be a good citizen! If you have experienced harassment, let one of your organizers know.
 
 See full Code of Conduct here: https://www.womenwhocode.com/codeofconduct

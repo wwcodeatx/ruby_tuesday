@@ -1,6 +1,7 @@
 # Topic Ideas
 
 * group troubleshooting / problem solving mob session
+* applaud her
 * practice interview coding problem or Exercism
 * one good thing / a win at work today
 * Today I Learned
