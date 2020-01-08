@@ -1,2 +1,2 @@
-# ruby_tuesday
+# Ruby Tuesday
 Resources for the Ruby Tuesday meetup
