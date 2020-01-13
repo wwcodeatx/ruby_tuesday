@@ -8,8 +8,8 @@ Please grab some food and make yourself comfortable.
 * Meetup: https://www.meetup.com/Women-Who-Code-Austin/events/fkmclrybccbcc/
 
 ## Your Organizers
-* Miriam Hayes: contact info
-* Anne Richardson:  contact info
+* Miriam Hayes: 
+* Anne Richardson:  twitter [@lortz](https://twitter.com/lortz), but I don't tweet...
 
 ## Sponsors
 This meeting space and food are provided by Cision. Thank you! :clap:
