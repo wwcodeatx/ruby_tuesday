@@ -1,0 +1,16 @@
+# Ice Breaker Questions/Topics
+
+* anything you hope to learn or resolve today?
+* taco deli vs torchy's
+* hardest vice to give up
+* read any good books lately?
+* favorite movie from your pre-adult life
+* what's your favorite halloween candy?
+* if you had to eat only 1 food for a whole year, what would it be?
+* Would you rather be without internet or your phone for a week?
+* would you rather never age physically or mentally?
+* what's in the trunk of your car right now?
+* if you could turn into an animal at-will, what would it be?
+* if you could teleport anywhere tomorrow, where would it be?
+* if you had to wear a t-shirt with a single word on it for the rest of the year, what would it be?
+* if you had a circus-performing skill, what would it be?
