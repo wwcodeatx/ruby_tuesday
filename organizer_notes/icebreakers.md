@@ -26,3 +26,5 @@
 * What's the last video in your YouTube history?
 * What song was last stuck in your head?
 * What's a favorite move from pre-adult life?
+* What's a code pet peeve you have?
+* What's your favorite kind of refactor?
