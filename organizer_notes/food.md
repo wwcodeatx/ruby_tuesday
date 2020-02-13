@@ -1,23 +1,15 @@
 # Food Orders
+* We order food through [Foodee](https://www.food.ee/restaurants/austin/)
+* Ideas: indian, greek/middle-eastern, pizza, thai, fajitas, Chipolte, chinese
 
-We order food through [Foodee](https://www.food.ee/restaurants/austin/)
-
-## Restrictions
+### Restrictions
 * get 1 GF option
 * get 1 non-dairy option
 * get 1 vegetarian option
 
-## Genre Ideas
-Indian, greek/middle-eastern, pizza, thai, fajitas, Chipolte, chinese
 
 ## Restaurants We Like
 (easy, reliable, good options)
-
-### Shawarma Point
-* https://www.food.ee/restaurants/austin/shawarma-point/_c4LlDAwUfY_-pXY
-* Build Your Own Plate - Falafel - Per Person (V GF)
-* Build Your Own Plate - Chicken - Per Person (GF)
-* Pita
 
 ### Taj Palace
 * https://www.food.ee/restaurants/austin/taj-palace-indian-restaurant
@@ -26,6 +18,13 @@ Indian, greek/middle-eastern, pizza, thai, fajitas, Chipolte, chinese
 * Kadai With Meat And Rice (DF GF)
 * Naan
 
+## Restaurants To Try
+
+### Shawarma Point
+* https://www.food.ee/restaurants/austin/shawarma-point/_c4LlDAwUfY_-pXY
+* Build Your Own Plate - Falafel - Per Person (V GF)
+* Build Your Own Plate - Chicken - Per Person (GF)
+* Pita
 
 ### Via 313 Pizza
 * https://www.food.ee/restaurants/austin/via-313-pizza/
