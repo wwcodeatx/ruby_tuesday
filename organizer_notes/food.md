@@ -8,6 +8,12 @@
 * get 1 vegetarian option
 
 
+## Previous Orders
+* 2020-01-21 Taj Palace
+* 2020-02-18 40 North Pizza
+* 2020-03-17 TBD
+
+
 ## Restaurants We Like
 (easy, reliable, good options)
 
@@ -17,6 +23,15 @@
 * Aloo Gobi With Rice (V VG GF DF)
 * Kadai With Meat And Rice (DF GF)
 * Naan
+
+
+### 40 North Pizza
+* url tbd
+* 10" Pizza Marinara (V VG DF), qty 1
+* 10" Pepperoni Pizza qty 2
+* 10" Margherita Pizza (V) qty 1
+
+
 
 ## Restaurants To Try
 
