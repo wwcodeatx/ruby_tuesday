@@ -1,3 +1,4 @@
+https://www.meetup.com/Women-Who-Code-Austin/events/268704248/
 
 # HOW TO FIND US
 Suite B700. On the west side of Brazos just before the corner of 7th and Brazos.
