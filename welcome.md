@@ -2,7 +2,7 @@
 Please grab some food and make yourself comfortable.
 
 ## Getting Connected
-* Slack: [wwc-atx.slack.com](http://www.wwc-atx.slack.com)
+* Slack: [wwc-atx.slack.com](http://www.wwc-atx.slack.com), [sign-up form](https://docs.google.com/a/womenwhocode.com/forms/d/e/1FAIpQLSfhijux9e9xRE3Djbc_RheYoYQ7C7UpdHuIl58wlgvjLFA0Iw/viewform)
 * Twitter: [@wwcodeatx](https://www.twitter.com/wwcodeatx)
 * Web: [womenwhocode.com/austin](https://www.womenwhocode.com/austin): Coding Resources, Job Board, Meetups, and MOAR!
 * Meetup: https://www.meetup.com/Women-Who-Code-Austin/events/fkmclrybccbcc/
