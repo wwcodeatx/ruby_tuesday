@@ -6,6 +6,7 @@ Please grab some food and make yourself comfortable.
 * Twitter: [@wwcodeatx](https://www.twitter.com/wwcodeatx)
 * Web: [womenwhocode.com/austin](https://www.womenwhocode.com/austin): Coding Resources, Job Board, Meetups, and MOAR!
 * Meetup: https://www.meetup.com/Women-Who-Code-Austin/events/fkmclrybccbcc/
+* WomenWhoCode Austin [https://www.womenwhocode.com/austin](https://www.womenwhocode.com/austin)
 
 ## Your Organizers
 * Miriam Hayes:
